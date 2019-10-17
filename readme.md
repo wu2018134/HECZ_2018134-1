@@ -1,11 +1,27 @@
-# THE 70th ANNIVERSARY OF THE FOUNDING OF THE PEOPLE'S REPUBLIC OF CHINA
-The celebration of my mother country. 
+# Ways to charge the phone when there is no electricity
 
-* I am a part of China.
-* I love China forever. 
+I get this idea from[the United Nations sustainable development goals NO.7.](https://www.un.org/sustainabledevelopment/energy/)This is a project of using something  to prove electricity when we have nearly nothing.
 
-the furthe interview:[www.https://baike.baidu.com/item/%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4/23349273?fromtitle=%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B70%E5%91%A8%E5%B9%B4&fromid=23783397&fr=aladdin]
+![affordable and clean energy](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571235015&di=bd2e469185f13d73bf0bc832c383788d&imgtype=jpg&er=1&src=http%3A%2F%2Fsteps-centre.org%2Fwp-content%2Fuploads%2F2017%2F01%2Fsdg-chart940x380.jpg) 
 
-![this is an image](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=a9d12e49de1373f0e13267cdc566209e/a8773912b31bb051808b051a397adab44aede051.jpg)
+# MY DREAMS
+Let people use electricity everywhere.
 
-Do you want to know about me?
+# SOME PROBLEMS
+How can we produce more energy with the same thing?
+How can we collect the energy?
+
+# SOMETHING I ALREADY KNOW
+People can use some sustainable development ways to provide energy
+
+# SOMETHING I WANT TO KNOW
+How could I use something that is easy to find to provide electricity?
+
+#SOME INTERESTING STORY ABOUT THIS
+One is that when maybe my grandfather was grown up,a bicycle which has light and riding to prove it energy,and when he wanted to try one,he found it difficult to ride.
+The other one is that my neighbour said he was climbing mountain while his phone suddenly stopped working.Then he had a quick wit and used a lemon and the iron on his belt.After that, he could make a little electricity and go away. 
+
+#SOME WAYS TO SOLVE THIS PROBLEM
+First of all: find flint, or drill wood to eliminate fire, get fire, smash flint, get original stone axe, cut tree, take fiber, add wood stick to get stone hammer and other tools, cut tree or dig coal, build kiln, find clay, burn pottery, and make big bowl,it must be big enough; seal the kiln and burn carbon to get carbon rod; look for natural red copper in nature, make copper wire and copper plate, install enough water in the big urn, insert copper plate and carbon rod, that is, connect the negative electrode and positive electrode of the battery respectively, and finish it. In this way, the battery voltage is about 1.2V. If the internal resistance is large, the area of copper plate can be expanded, or multiple batteries can be connected in parallel.
+
+Do you want to know about me?[click here](aboutme.md)
